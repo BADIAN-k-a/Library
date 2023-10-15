@@ -1,0 +1,18 @@
+{
+    "books": [
+        {
+            "title": "Harry Potter",
+            "age": 16,
+            "genre": "Action",
+            "author": "jj"
+        }
+    ],
+    "magazines": [
+        {
+            "title": "National Geographic",
+            "age": 16,
+            "type_mag": "Animals",
+            "issue_num": 2
+        }
+    ]
+}
